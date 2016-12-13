@@ -1,0 +1,37 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "1ECA9D8E38462F716BBB53AFA6ECB9330230D0DB",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "576A1A88BF3345F28E0B1FD5E7B7ADB326F6D88B" : 9223372036854775807,
+    "AD3AF971D71AC7F4A5F884DAA319BA0244E31829" : 9223372036854775807,
+    "1ECA9D8E38462F716BBB53AFA6ECB9330230D0DB" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "6B578780-F5E3-4AEB-BF29-37F2DBEE5B25",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "576A1A88BF3345F28E0B1FD5E7B7ADB326F6D88B" : "ModulizationA_Category\/",
+    "AD3AF971D71AC7F4A5F884DAA319BA0244E31829" : "ModulizationA\/",
+    "1ECA9D8E38462F716BBB53AFA6ECB9330230D0DB" : "ModulizationMainProject\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "ModulizationMainProject",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "ModulizationMainProject.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/linwenbang\/ModulizationMainProject.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "1ECA9D8E38462F716BBB53AFA6ECB9330230D0DB"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/linwenbang\/ModulizationA_Category.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "576A1A88BF3345F28E0B1FD5E7B7ADB326F6D88B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/linwenbang\/ModulizationA.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AD3AF971D71AC7F4A5F884DAA319BA0244E31829"
+    }
+  ]
+}

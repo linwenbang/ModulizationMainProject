@@ -7,6 +7,7 @@
 //
 
 #import "ViewController.h"
+#import <ModulizationA_Category/CTMediator+A.h>
 
 @interface ViewController ()
 
@@ -19,10 +20,11 @@
     // Do any additional setup after loading the view, typically from a nib.
 }
 
-
-- (void)didReceiveMemoryWarning {
-    [super didReceiveMemoryWarning];
-    // Dispose of any resources that can be recreated.
+- (IBAction)clicked:(id)sender {
+    
+    UIViewController *viewController = [[CTMediator sharedInstance] A_aViewController];
+    [self.navigationController pushViewController:viewController animated:YES];
+    
 }
 
 

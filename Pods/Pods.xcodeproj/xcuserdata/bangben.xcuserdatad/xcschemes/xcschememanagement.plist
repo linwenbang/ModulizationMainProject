@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>CTMediator.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ModulizationA-ModulizationA.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ModulizationA.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>ModulizationA_Category.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-ModulizationMainProject.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>07A66CAADB45F98857B152E6DD01D7AC</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>759D03132FD3DDB76CA88C2B52F29120</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>97395CF03D5FDCBB1C04DF890B0FF57D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>C50EF5F5DB9DA5D0762272EF9E8D1321</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>E860DBFDF4A7872F6049CBAEAA721AD9</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

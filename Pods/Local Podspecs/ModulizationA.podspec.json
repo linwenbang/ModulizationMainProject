@@ -1,0 +1,26 @@
+{
+  "name": "ModulizationA",
+  "version": "1.0.4",
+  "summary": "ModulizationA.",
+  "description": "this is ModulizationA",
+  "homepage": "https://github.com/linwenbang/ModulizationA",
+  "license": {
+    "type": "MIT",
+    "file": "FILE_LICENSE"
+  },
+  "authors": {
+    "CasaTaloyum": "casatwy@msn.com"
+  },
+  "platforms": {
+    "ios": "7.0"
+  },
+  "source": {
+    "git": "https://github.com/linwenbang/ModulizationA.git",
+    "tag": "1.0.4"
+  },
+  "source_files": "ModulizationA/ModulizationA/**/*.{h,m}",
+  "requires_arc": true,
+  "resource_bundles": {
+    "ModulizationA": "ModulizationA/**/*.{xib}"
+  }
+}

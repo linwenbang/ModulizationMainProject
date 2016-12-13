@@ -1,0 +1,22 @@
+PODS:
+  - CTMediator (0.0.2)
+  - ModulizationA (1.0.4)
+  - ModulizationA_Category (1.0.1):
+    - CTMediator
+
+DEPENDENCIES:
+  - ModulizationA (from `../ModulizationA`)
+  - ModulizationA_Category
+
+EXTERNAL SOURCES:
+  ModulizationA:
+    :path: ../ModulizationA
+
+SPEC CHECKSUMS:
+  CTMediator: da466319e36f9e0d033af4769c0741d04c6b14c5
+  ModulizationA: 181ee08eed2aa836ed6c2279e5808a24f0efe77f
+  ModulizationA_Category: 8a45af55cbb97eca6e2dcff013347852765a54da
+
+PODFILE CHECKSUM: a2af1d2c587d5b408f4fed64f2d7d2ec4982cf47
+
+COCOAPODS: 1.1.1
